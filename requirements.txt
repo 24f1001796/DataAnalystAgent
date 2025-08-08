@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+matplotlib
+seaborn
+scikit-learn
+duckdb
+beautifulsoup4
+aiofiles
+python-multipart
