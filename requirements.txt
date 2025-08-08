@@ -8,3 +8,4 @@ duckdb
 beautifulsoup4
 aiofiles
 python-multipart
+requests
